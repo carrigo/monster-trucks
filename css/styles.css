@@ -7,3 +7,13 @@ body {
   background:         linear-gradient(90deg, #f857a6 10%, #ff5858 90%); /* W3C */
         
 }
+
+h1 {
+    font-family: 'Frijole', cursive;
+    text-align: center;
+    font-size: 6em;
+}
+
+img {
+    border-radius: 50%   
+}
